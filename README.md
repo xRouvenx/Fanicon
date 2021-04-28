@@ -111,13 +111,13 @@ Als VIP User kann ich ein Design, welches ich erstellt habe, abspeichern, um es 
 
 Als User im Editor kann ich effizient und schnell nach Icons suchen, um diese meinem Design hinzuzufügen.
 
-### Drag &amp; Drop aus Icon-Library
-
-Als User im Editor kann ich Icons aus der Library oder aus dem Design per Drag &amp; Drop herumschieben, um schnell und einfach die Icons anzuordnen.
-
 ### Anpassbare Parameter
 
 Als User im Editor kann ich diverse Parameter wie Farbe, Grösse und Abstand etc. einstellen, um mein Design einzigartig nach meinem Geschmack zu gestallten.
+
+### Drag &amp; Drop aus Icon-Library (Optional)
+
+Als User im Editor kann ich Icons aus der Library oder aus dem Design per Drag &amp; Drop herumschieben, um schnell und einfach die Icons anzuordnen.
 
 # Technologien
 
@@ -132,3 +132,7 @@ Im Backend haben wir eine Java-Applikation, die eine PostgreSQL-Datenbank verwen
 - Deno
 - Java- / Typescript
 - HTML &amp; CSS
+
+# ERD
+
+![](dok/erd.png)
