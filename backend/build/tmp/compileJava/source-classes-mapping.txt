@@ -1,0 +1,2 @@
+com/cedricgasser/fanicon/FaniconApplication.java
+ com.cedricgasser.fanicon.FaniconApplication
