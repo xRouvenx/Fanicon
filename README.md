@@ -11,6 +11,8 @@ Klasse S-Inf18aL
 
 # Contents
 
+[Starten](#Starten)
+
 [Beschreibung](#Beschreibung)
 
 [Nutzer](#Nutzer)
@@ -26,6 +28,14 @@ Klasse S-Inf18aL
 [- Design-Editor](#Design-Editor)
 
 [Technologien](#Technologien)
+
+# Starten
+
+  * Start backend services in `docker` folder
+    * `cd backend/docker; docker-compose up -d;`
+  * Start `fruitshop` with gradle wrapper
+    * `./backend/gradlew bootRun` (Linux)
+    * `backend/gradlew.bat bootRun` (Windows)
 
 # Beschreibung
 
