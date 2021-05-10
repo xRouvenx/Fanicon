@@ -33,7 +33,7 @@ Klasse S-Inf18aL
 
   * Start backend services in `docker` folder
     * `cd backend/docker; docker-compose up -d;`
-  * Start `fruitshop` with gradle wrapper
+  * Start `Fanicon` with gradle wrapper
     * `./backend/gradlew bootRun` (Linux)
     * `backend/gradlew.bat bootRun` (Windows)
 
