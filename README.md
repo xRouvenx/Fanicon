@@ -146,3 +146,23 @@ Im Backend haben wir eine Java-Applikation, die eine PostgreSQL-Datenbank verwen
 # ERD
 
 ![](dok/erd.png)
+
+# Wireframe
+
+![](dok/Start.png)
+![](dok/Login.png)
+![](dok/SignUp.png) 
+![](dok/Home.png)
+Without VIP
+![](dok/Editor(no_VIP).png)
+To buy VIP
+![](dok/BuyVIP.png) 
+With VIP
+![](dok/Editor(VIP).png)
+If you want to Publish
+![](dok/Publish.png) 
+![](dok/Designoverview.png) 
+If you are an Admin you are going to see this
+![](dok/Admin.png) 
+If you want to add a Icon as an Admin
+![](dok/Add_Icon.png)
