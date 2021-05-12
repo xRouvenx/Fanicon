@@ -31,11 +31,8 @@ Klasse S-Inf18aL
 
 # Starten
 
-  * Start backend services in `docker` folder
-    * `cd backend/docker; docker-compose up -d;`
-  * Start `Fanicon` with gradle wrapper
-    * `./backend/gradlew bootRun` (Linux)
-    * `backend/gradlew.bat bootRun` (Windows)
+  * `Docker` und `Docker-Compose` sind vorausgesetzt
+  * `docker-compose up -d` ausführen
 
 # Beschreibung
 

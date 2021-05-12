@@ -1,12 +1,12 @@
 version: "3.9"
 services:
-  fanicon-frontend:
+  frontend:
     build: ./frontend/
     ports:
       - 80:80
       - 443:443
 
-  fanicon-backend:
+  backend:
     build: ./backend/
     networks:
       - fanicon
